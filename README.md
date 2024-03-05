@@ -44,11 +44,11 @@ list: List all available accommodations.
 For a full list of available commands and their usage, refer to the documentation or run help within the command interpreter.
 
 Examples
-Example 1: Searching for accommodations in New York City
+Example 1: Searching for accommodations in Nairobi City
 
 sql
 Copy code
-search New York City
+search Nairobi City
 Example 2: Booking a listing with ID 123 for a stay from January 1st to January 7th
 
 yaml
@@ -59,3 +59,4 @@ book 123 2024-01-01 2024-01-07
 The following individuals have contributed to the development of this project:
 
 Ferdynand Odhiambo<ferdinandodhis254@gmail.com>
+Emmanuel Wesa<princewesa@gmail.com>
