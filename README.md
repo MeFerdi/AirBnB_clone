@@ -33,8 +33,11 @@ pip install -r requirements.txt
 Run the command interpreter:
 
 Copy code
+
 python interpreter.py
-How to Use
+
+### How to Use
+
 Once the command interpreter is running, users can enter commands to interact with the Airbnb clone platform. Here are some common commands and their descriptions:
 
 search <location>: Search for accommodations in the specified location.
@@ -47,12 +50,16 @@ Examples
 Example 1: Searching for accommodations in Nairobi City
 
 sql
+
 Copy code
+
 search Nairobi City
+
 Example 2: Booking a listing with ID 123 for a stay from January 1st to January 7th
 
 yaml
 Copy code
+
 book 123 2024-01-01 2024-01-07
 
 ## Authors
