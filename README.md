@@ -20,7 +20,7 @@ Clone the repository to your local machine:
 
 ### bash
 Copy code
-git clone https://github.com/your_username/airbnb_clone.git
+git clone https://github.com/MeFerdi/AirBnB_clone.git
 Navigate to the project directory:
 
 ### bash
