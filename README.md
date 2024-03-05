@@ -59,4 +59,5 @@ book 123 2024-01-01 2024-01-07
 The following individuals have contributed to the development of this project:
 
 Ferdynand Odhiambo<ferdinandodhis254@gmail.com>
+
 Emmanuel Wesa<princewesa@gmail.com>
