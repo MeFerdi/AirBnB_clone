@@ -75,7 +75,7 @@ update <class> <id> <attribute name> "<attribute value>" ->	Updates an object wi
 <class>.count()	-> Retrieves the number of objects of a certain class
 <class>.show(<ID>)	-> Same as show <class> <ID>
 <class>.destroy(<ID>)	->Same as destroy <class> <ID>
-<class>.update(<ID>, <attribute name>, <attribute value>	-> Same as update <class> <ID> <attribute name> <attribute value>)
+<class>.update(<ID>, <attribute name>, <attribute value>)	-> Same as update <class> <ID> <attribute name> <attribute value>
 <class>.update(<ID>, <dictionary representation>)	-> Updates an objects based on a dictionary representation of attribute names and values
 
 # General Execution
