@@ -61,7 +61,7 @@ Manage (create, update, destroy, etc) objects via a console/command interpreter
 Store and persist objects to files (JSON files)
 
 # Description of the command interpreter
-|Commands
+|Commands | Description|
 |-----|-----------------------------------------------------------------------------|
 quit ->	Quits the console
 Ctrl+D ->	Quits the console
