@@ -62,7 +62,7 @@ Store and persist objects to files (JSON files)
 
 # Description of the command interpreter
 |Commands | Description|
-|----------------------------------------------------------------------------------|
+|---------|-------------------------------------------------------------------------|
 quit ->	Quits the console
 Ctrl+D ->	Quits the console
 help or help <command> ->	Displays all commands or Displays instructions for a specific command
