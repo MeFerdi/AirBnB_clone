@@ -5,16 +5,27 @@ A team project to build a clone of AirBnB(https://www.airbnb.com/)
 As you navigate this code base, it is great to note the following concepts, while completing this project.
 
 How to create a Python package
+
 How to create a command interpreter in Python using the cmd module
+
 What is Unit testing and how to implement it in a large project
+
 How to serialize and deserialize a Class
+
 How to write and read a JSON file
+
 How to manage datetime
+
 What is an UUID
+
 What is *args and how to use it
+
 What is **kwargs and how to use it
+
 How to handle named arguments in a function
-Files and Directories
+
+# Files and Directories
+
 models directory will contain all classes used for the entire project. A class, called “model” in a OOP project is the representation of an object/instance.
 tests directory will contain all unit tests.
 console.py file is the entry point of our command interpreter.
@@ -37,7 +48,7 @@ Manage (create, update, destroy, etc) objects via a console/command interpreter
 Store and persist objects to files (JSON files) S
 # Description of the command interpreter
 |Commands	|Description|
-|-----------|------------|
+|-----|------------|
 quit	Quits the console
 Ctrl+D	Quits the console
 help or help <command>	Displays all commands or Displays instructions for a specific command
