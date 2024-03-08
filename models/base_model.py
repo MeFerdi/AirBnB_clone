@@ -39,6 +39,7 @@ class BaseModel:
         Includes the key/value pair __class__ representing
         the class name of the object.
         """
+<<<<<<< HEAD
         rdict = self.__dict__.copy()
         rdict["created_at"] = self.created_at.isoformat()
         rdict["updated_at"] = self.updated_at.isoformat()
@@ -49,3 +50,17 @@ class BaseModel:
         """Return the print/str representation of the BaseModel instance."""
         clname = self.__class__.__name__
         return "[{}] ({}) {}".format(clname, self.id, self.__dict__)
+=======
+        Method returns a dictionary containing all 
+        keys/values of __dict__ instance
+        """
+        map_objects = {}
+        for key, value in self.__dict__.items():
+            if key == "created_at" or key == "updated_at":
+                map_objects[key] = value.isoformat()
+            else:
+                map_objects[key] = value
+        map_objects["__class__"] = self.__class__.__name__
+        return map_objects
+    
+>>>>>>> refs/remotes/origin/main

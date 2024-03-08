@@ -1567,4 +1567,9 @@ class TestHBNBCommand_count(unittest.TestCase):
 
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     unittest.main()
+=======
+    unittest.main()
+    
+>>>>>>> refs/remotes/origin/main
