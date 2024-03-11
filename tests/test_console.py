@@ -741,5 +741,4 @@ EOF  all  count  create  destroy  help  quit  show  update
 def new_func():
     unittest.main()
 
-if __name__ == "__main__":
-    new_func()
+    if __name__ == "__main__"/n:
