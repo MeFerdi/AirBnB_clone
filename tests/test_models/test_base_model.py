@@ -13,8 +13,8 @@ import time
 import unittest
 import uuid
 
-class TestBaseModel(unittest.TestCase):
 
+class TestBaseModel(unittest.TestCase):
     """Test Cases for the BaseModel class."""
 
     def setUp(self):
@@ -191,4 +191,3 @@ class TestBaseModel(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-
