@@ -738,8 +738,7 @@ EOF  all  count  create  destroy  help  quit  show  update
         return attributes
 
 
-def new_func():
+if __name__ == "__main__":
     unittest.main()
 
-    if __name__ == "__main__":
-
+    if __name__ == "__main__"
