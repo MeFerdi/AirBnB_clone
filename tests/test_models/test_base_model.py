@@ -2,11 +2,11 @@
 
 """Unittest module for the BaseModel Class."""
 
+import json
 from models import storage
 from models.base_model import BaseModel
 from models.engine.file_storage import FileStorage
 from datetime import datetime
-import json
 import os
 import re
 import time

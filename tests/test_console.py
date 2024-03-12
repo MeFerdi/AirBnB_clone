@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """Module for TestHBNBCommand class."""
 
+import json
 from console import HBNBCommand
 from models.engine.file_storage import FileStorage
 import unittest
@@ -741,4 +742,4 @@ EOF  all  count  create  destroy  help  quit  show  update
 if __name__ == "__main__":
     unittest.main()
 
-    if __name__ == "__main__"
+if __name__ == "__main__":
