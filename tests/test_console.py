@@ -743,3 +743,8 @@ def new_func():
     unittest.main()
 
     if __name__ == "__main__":
+<<<<<<< HEAD
+=======
+        unittest.main()
+
+>>>>>>> d7d765832c4732e79ddb590b9f0628f109d845f2
