@@ -1,4 +1,4 @@
-/usr/bin/python3
+#!/usr/bin/python3
 """Unittest module for the Review Class."""
 
 import unittest
@@ -47,6 +47,7 @@ class TestReview(unittest.TestCase):
         for k, v in attributes.items():
             self.assertTrue(hasattr(o, k))
             self.assertEqual(type(getattr(o, k, None)), v)
+
+
 if __name__ == "__main__":
     unittest.main()
-
