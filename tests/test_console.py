@@ -740,4 +740,9 @@ EOF  all  count  create  destroy  help  quit  show  update
 
 def new_func():
     unittest.main()
+<<<<<<< HEAD
     if __name__ == "__main__":
+=======
+
+    if __name__ == "__main__"
+>>>>>>> 1e819dfffe4885dc1c10d6f250d1575c2d88aac1

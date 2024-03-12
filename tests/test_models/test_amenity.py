@@ -49,5 +49,9 @@ class TestAmenity(unittest.TestCase):
             self.assertEqual(type(getattr(o, k, None)), v)
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     unittest.main():
 
+=======
+    unittest.main()
+>>>>>>> 1e819dfffe4885dc1c10d6f250d1575c2d88aac1
