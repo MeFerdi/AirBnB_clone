@@ -743,8 +743,4 @@ def new_func():
     unittest.main()
 
     if __name__ == "__main__":
-<<<<<<< HEAD
-       unittest.main() 
-=======
-        unittest.main()
->>>>>>> 570759bd421aba149e09a1999387381b76258bcb
+       unittest.main()
