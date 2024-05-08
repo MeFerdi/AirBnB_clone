@@ -1,4 +1,4 @@
-# Welcome to the AirBnB clone project!
+# Welcome to the AirBnB Clone project!
 A team project to build a clone of AirBnB(https://www.airbnb.com/)
 
 # General concepts in review
